@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_APS100"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="APS100" />
+        <item
+            android:id="@+id/nav_APS110"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="APS110" />
+        <item
+            android:id="@+id/nav_APS111"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="APS111" />
+        <item
+            android:id="@+id/nav_CIV100"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="CIV100" />
+        <item
+            android:id="@+id/nav_MAT186"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="MAT186" />
+        <item
+            android:id="@+id/nav_MAT188"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="MAT188" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

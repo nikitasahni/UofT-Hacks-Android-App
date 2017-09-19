@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aps100_items">
+        <item >How to Become a Memory Master</item>
+        <item >The Art of Memory</item>
+        <item >Learning how to Learn</item>
+        <item >Inside the Mind of a Procrastinator</item>
+        <item >How to Make Stress Your Friend</item>
+    </string-array>
+
+    <string-array name="aps110_items">
+        <item >Course Syllabus</item>
+        <item >Calorimetry Part 1 </item>
+        <item >Calorimetry Part 2</item>
+        <item >Hess\'s Law</item>
+        <item >Intro to Enthalpy</item>
+        <item >Crystal Geometry</item>
+        <item >Crystal Imperfections</item>
+        <item >Intro to Phase Diagrams</item>
+        <item >Plastic Deformation</item>
+        <item >Course Notes and Previous Exams</item>
+    </string-array>
+</resources>
